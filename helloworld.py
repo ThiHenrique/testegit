@@ -1,1 +1,2 @@
-print ("Hello, ThiHenrique!")
+nome = input ("Nome:")
+print ("Hello,"+ nome)
